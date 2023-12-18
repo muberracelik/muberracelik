@@ -1,4 +1,4 @@
-# Hello, I'm Müberra Çelik Türk 👋  
+# Hello, I'm Müberra Türk 👋  
 
 ## About Me 
 I'm currently working as a freelance instructor on React Native, Flutter, and Xamarin. I enjoy developing mobile applications and undertaking various projects.    
